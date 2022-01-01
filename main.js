@@ -6,7 +6,7 @@ $(document).ready(
 
 
 function start() {
-  document.getElementById('title').innerText='NEW YEAR COUNT DOWN'
+  document.getElementById('title').innerText='NEW LUNAR YEAR COUNT DOWN'
   var countDownDate = new Date("2022  Feb 01 00:00:00").getTime();
   var sayTime = new Date("2021 Jan 31 23:59:49").getTime();
 
